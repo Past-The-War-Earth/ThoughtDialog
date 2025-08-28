@@ -23,7 +23,7 @@ The rules based nature of ThoughtDialog is what will enable its real-time determ
 
 ## Looking forward
 
-Iteratively and with analysis and design concurrent thought loops, Peace Pipe requests, thought creation triggers and thought deactivation will be developed.   Problems and solutions will start to reveal themselves as the data input and additional needed sub-systems are implemented and real scenarios present themselves.
+Iteratively and with analysis and design multi-dimentional threads enabled hold that thought ability, concurrent thought loops, Peace Pipe requests, thought creation triggers and thought deactivation will be developed.   Problems and solutions will start to reveal themselves as the data input and additional needed sub-systems are implemented and real scenarios present themselves.
 
 ## Getting it perfected
 
