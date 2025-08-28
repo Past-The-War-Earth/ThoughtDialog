@@ -3,7 +3,7 @@ Automated dialog of thoughts and resulting conclusions.
 
 ## History
 
-Chronologically, the idea for ThoughtDialog came second after [Urarun](https://github.com/Past-The-War-Earth/Urarun) (created around 2007) at around 2012 - 2014, before [Hans the Organizator](https://github.com/Past-The-War-Earth/Hans-the-Organizator) in 2015.  I didn't have any thoughts to record but was envisioning a system where one could record thoughts for later collaborative evaluation.  The idea continued to evolve driven by allowing to build on previous thoughts, reusing the facts and logic that still apply and build new thought chains.
+Chronologically, the idea for ThoughtDialog came second after [Urarun](https://github.com/Past-The-War-Earth/TravelAid) (created around 2007) at around 2012 - 2014, before [Hans the Organizator](https://github.com/Past-The-War-Earth/Hans_the_Organizator) in 2015.  I didn't have any thoughts to record but was envisioning a system where one could record thoughts for later collaborative evaluation.  The idea continued to evolve driven by allowing to build on previous thoughts, reusing the facts and logic that still apply and build new thought chains.
 
 ## Principles based thinking
 
