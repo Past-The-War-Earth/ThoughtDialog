@@ -28,3 +28,7 @@ Iteratively and with analysis and design multi-dimentional threads enabled hold 
 ## Getting it perfected
 
 Very importantly, once properly tested the NLNM regulation tree (Mark Down) must be published and reviewed by observers to spot any incorrect assumptions or logic.  Manual debugging of decision making in replayed simulations must be possible.  Perfecting the engine will come down to continuously iterating on the engine and applying it in additional simulation runs.  Large scale and frequent participation in simulations will be needed to prove its effectiveness.
+
+## Past the Simulation
+
+Beyond its [envisioned](https://github.com/Past-The-War-Earth/ThoughtDialog/issues/6) application in [robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) there has been a thought of taking written and [opinion making](https://github.com/Past-The-War-Earth/votecube.com) content of an individual and making a personal rule tree from it.  The idea is for a child to be able to get an educated response to a family matters/wisdom question (that, for example, before answered could be verified with his great-great-great-grandparent's simulated response: "Wahts the story behind our surname being [ABC](https://en.wikipedia.org/wiki/Isaac_Asimov#Surname)?").
