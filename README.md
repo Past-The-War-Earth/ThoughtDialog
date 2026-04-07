@@ -3,7 +3,7 @@ Automated dialog of thoughts and resulting conclusions.
 
 ## History
 
-Chronologically, the idea for ThoughtDialog came second after [Urarun](https://github.com/Past-The-War-Earth/TravelAid) (created around 2007) at around 2012 - 2014, before [Hans the Organizator](https://github.com/Past-The-War-Earth/Hans_the_Organizator) in 2015.  I didn't have any thoughts to record but was envisioning a system where one could record thoughts for later collaborative evaluation.  The idea continued to evolve driven by allowing to build on previous thoughts, reusing the facts and logic that still apply and build new thought chains.
+Chronologically, the idea for ThoughtDialog came second after [Urarun](https://github.com/data-independence-network/Urarun) (created around 2007) at around 2012 - 2014, before [Hans the Organizator](https://github.com/data-independence-network/Hans_the_Organizator) in 2015.  I didn't have any thoughts to record but was envisioning a system where one could record thoughts for later collaborative evaluation.  The idea continued to evolve driven by allowing to build on previous thoughts, reusing the facts and logic that still apply and build new thought chains.
 
 ## Principles based thinking
 
@@ -31,4 +31,4 @@ Very importantly, once properly tested the NLNM regulation tree (Mark Down) must
 
 ## Past the Simulation
 
-Beyond its [envisioned](https://github.com/Past-The-War-Earth/ThoughtDialog/issues/6) application in [robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) there has been a thought of taking written and [opinion making](https://github.com/Past-The-War-Earth/votecube.com) content of an individual and making a personal rule tree from it.  The idea is for a child to be able to get an educated response to a family matters/wisdom question (that, for example, before answered could be verified with his great-great-great-grandparent's simulated response: "Wahts the story behind our surname being [ABC](https://en.wikipedia.org/wiki/Isaac_Asimov#Surname)?").
+Beyond its [envisioned](https://github.com/Past-The-War-Earth/ThoughtDialog/issues/6) application in [robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics) there has been a thought of taking written and [opinion making](https://github.com/data-independence-network/votecube.com) content of an individual and making a personal rule tree from it.  The idea is for a child to be able to get an educated response to a family matters/wisdom question (that, for example, before answered could be verified with his great-great-great-grandparent's simulated response: "Wahts the story behind our surname being [ABC](https://en.wikipedia.org/wiki/Isaac_Asimov#Surname)?").
