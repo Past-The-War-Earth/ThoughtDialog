@@ -5,6 +5,8 @@ Automated dialog of thoughts and resulting conclusions.
 
 Chronologically, the idea for ThoughtDialog came second after [Urarun](https://github.com/data-independence-network/Urarun) (created around 2007) at around 2012 - 2014, before [Hans the Organizator](https://github.com/data-independence-network/Hans_the_Organizator) in 2015.  I didn't have any thoughts to record but was envisioning a system where one could record thoughts for later collaborative evaluation.  The idea continued to evolve driven by allowing to build on previous thoughts, reusing the facts and logic that still apply and build new thought chains.
 
+Basically people could record their thoughts and other people could build on top of them, making their own versions and moving the idea forward (in a given direction).
+
 ## Principles based thinking
 
 Using ThoughtDialog for NLNM is about focusing on NLNM principles to drive the thought process.  The intent is to continuously generate conclusions on the current/local simulation state of NLNM compliance and if necessary present a corrective course of action to the unit commanders.  The needed end effect is collectively executed augmentative measures, that do not impact the tactical goals of the unit and additional systems will have to be developed to implement that.
